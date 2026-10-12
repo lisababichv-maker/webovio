@@ -1,0 +1,9 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="logo" width="55" height="35" viewBox="0 0 55 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.6502 30.2129C35.35 32.3799 32.2094 32.3799 30.9092 30.2129L12.7815 3.43323e-05L48.8656 3.43323e-05C51.4676 3.43323e-05 53.0748 2.83865 51.7361 5.06987L36.6502 30.2129Z" fill="#FFD723"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.1277 30.2129C19.4279 32.3799 22.5685 32.3799 23.8687 30.2129L41.9964 3.43323e-05L5.91239 3.43323e-05C3.31037 3.43323e-05 1.70317 2.83865 3.0419 5.06987L18.1277 30.2129Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7815 0H41.9964L27.39 24.3458L12.7815 0Z" fill="#F6F6F6"/>
+</symbol>
+</defs>
+</svg>
